@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋 , I'm Kadir Kayar</h1>
 
 - 🎓 I graduated from Akdeniz University Management Information Systems department.
-- 👩🏻‍💻 I am currently not working as an iOS developer in Appcent.
-- 💌 You can reach me on [kadirkayar_developer@icloud.com](mailto:kadirkayar_developer@icloud.com)
+- 🏫 I still studied from Istanbul University Web Programming and Coding department.
+- 👨🏻‍💻 I am currently not working now anywhere.
+- 📩 You can reach me on [kadirkayar_developer@icloud.com](mailto:kadirkayar_developer@icloud.com)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
