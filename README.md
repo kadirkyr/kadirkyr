@@ -22,3 +22,7 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/kadirkyr"><img src="https://github-readme-stats.vercel.app/api?username=kadirkyr&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kadirkyr's GitHub stats" /></a>
+
