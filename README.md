@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋 , I'm Kadir Kayar</h1>
+Hi 👋 My name is Kadir Kayar
+===============================
 
-- 🎓 I graduated from Akdeniz University Management Information Systems department.
-- 🏫 I still studied from Istanbul University Web Programming and Coding department.
-- 👨🏻‍💻 I am currently not working now anywhere.
-- 📩 You can reach me on [kadirkayar_developer@icloud.com](mailto:kadirkayar_developer@icloud.com)
+Mobile Application Developer
+-----------------------------
+
+* 🎓 I graduated from Akdeniz University Management Information Systems department.
+* 🏫 I still studied from Istanbul University Web Programming and Coding department.
+* 👨🏻‍💻 I am currently not working now anywhere.
+* 📩 You can reach me on [kadirkayar_developer@icloud.com](mailto:kadirkayar_developer@icloud.com)
+* 🧠 I'm learning Flutter Framework and Swift.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
