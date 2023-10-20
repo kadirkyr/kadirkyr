@@ -12,7 +12,6 @@ Mobile Application Developer
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/mysoftwarelight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mysoftwarelight" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kadirkyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadirkyr" height="30" width="40" /></a>
 <a href="https://www.instagram.com/codeanduty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codeanduty" height="30" width="40" /></a>
   
